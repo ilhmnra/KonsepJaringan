@@ -1,5 +1,9 @@
 # TELNET
-
+**Nama** : Aulia Ilham Nur Alfian </br>
+**NRP** : 3122600024 </br>
+**Kelas** : 2 D4 IT A </br>
+**Mata Kuliah** : Konsep Jaringan </br>
+`Semua Tugas dalam repo ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
 ## 1. PENGERTIAN
 
 Telnet adalah sebuah protokol jaringan yang digunakan untuk mengakses dan mengendalikan perangkat jarak jauh melalui jaringan komputer. Protokol ini memungkinkan pengguna untuk melakukan akses jarak jauh ke perangkat seperti server, router, atau komputer lainnya, seolah-olah mereka sedang duduk di depan perangkat tersebut secara fisik. Telnet menggunakan koneksi TCP/IP (Transmission Control Protocol/Internet Protocol) untuk mentransmisikan data antara komputer pengguna (client) dan komputer tujuan (server) melalui jaringan.
