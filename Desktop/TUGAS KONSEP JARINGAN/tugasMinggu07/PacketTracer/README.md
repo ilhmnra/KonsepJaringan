@@ -3,6 +3,7 @@
 **NRP** : 3122600024 </br>
 **Kelas** : 2 D4 IT A </br>
 **Mata Kuliah** : Konsep Jaringan </br>
+`Semua Tugas dalam repo ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
 
 Untuk memungkinkan PC untuk saling mengirim ping satu sama lain dalam jaringan, diperlukan melakukan konfigurasi IP yang benar pada setiap perangkat, termasuk router dan PC. Di bawah ini adalah penjelasan tentang konfigurasi IP dan mengapa PC dapat saling mengirim ping.
 
