@@ -1,5 +1,9 @@
 # DYNAMIC ROUTING
-
+**Nama** : Aulia Ilham Nur Alfian </br>
+**NRP** : 3122600024 </br>
+**Kelas** : 2 D4 IT A </br>
+**Mata Kuliah** : Konsep Jaringan </br>
+`Semua Tugas dalam repo ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra,ST, M.Sc`
 Routing adalah proses pengiriman data dari satu host dalam satu network ke host dalam network yang lain melalui suatu router. Agar router dapat mengetahui bagaimana meneruskan paket paket ke alamat yang dituju dengan mengunakan jalur terbaik, router menggunakan peta atau tabel routing. Table routing adalah table yang memuat seluruh informasi IP address dari interfaces router yang lain sehingga router yang satu dengan router lainnya bisa berkomunikasi.
 
 Didalam tabel routing informasi routing akan disimpan dalam bentuk entry-entryroute (rute). Setiap entry route akan menunjukkan network address dari network yang dapat dituju oleh router tersebut. Entry route ini juga berisi tentang informasi bagaimana cara mencapai network tersebut. Entry Route pada tabel routing tersebut dapat dibuat atau dikonfigurasi secara manual oleh Administrator jaringan atau dapat juga diperoleh router secara otomatis dengan melakukan pertukaran informasi routing dengan router lain.
